@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao perfil do DaGitFella 😁
-## Welcome to DaGitFella´s profile 😁
 
  <div>
    <a href="https://github.com/DaGitFella">
