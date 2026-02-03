@@ -1,6 +1,6 @@
-# Olá, eu sou o DaGitFella! 👋
+# Olá, eu sou o Davi! 👋
 
-Desenvolvedor apaixonado por criar interfaces modernas e soluções eficientes. Atualmente focado no ecossistema JavaScript e em frameworks de alta performance.
+Desenvolvedor apaixonado por criar soluções através da programação. Progamo dentro do ecossistema JavaScript e na linguagem python. 
 
 ## 🛠️ Tecnologias e Ferramentas
 
