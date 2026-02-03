@@ -17,15 +17,6 @@ Desenvolvedor apaixonado por criar soluções através da programação. Progamo
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaGitFella&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaGitFella&layout=compact&langs_count=6&theme=synthwave"/>
-</div>
-
----
-
 ## 🐍 Contribuições
 ![Snake animation](https://github.com/DaGitFella/DaGitFella/blob/output/github-contribution-grid-snake.svg)
 
