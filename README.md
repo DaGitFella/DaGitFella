@@ -58,8 +58,8 @@ Se você quer falar sobre projetos incríveis, o último episódio daquela séri
 ---
 
 <p align="center">
-  <i>"Se estiver difícil, é porque você está no caminho certo. Ou esqueceu um parêntese."</i> <br>
-  <b>— Desenvolvedor Anônimo (provavelmente eu ontem à noite)</b>
+  <i>"Quem, de três milênios, não é capaz de se dar conta, vive na ignorância, na sombra, à mercê dos dias, do tempo."</i> <br>
+  <b>-Johann Goethe</b>
 </p>
 
 <p align="center">
