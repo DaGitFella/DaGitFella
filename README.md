@@ -1,7 +1,7 @@
 
 # Olá, mundo! Eu sou o Davi 👋 
 
-### ☕ Movido a café, curiosidade e Stack Overflow
+### ☕ Movido a curiosidade e Stack Overflow
 
 Sou um desenvolvedor apaixonado por transformar ideias em código funcional (e às vezes em bugs criativos). Se o código compilou de primeira, eu desconfio. Se não compilou, eu entendo.
 
@@ -14,8 +14,6 @@ Aqui é onde a mágica (ou o desespero) acontece:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs,tailwind,docker,git,nestjs" />
 </p>
-
-> **Nota mental:** Já tentei aprender tudo de uma vez, mas o cérebro deu 404. Hoje foco no que resolve o problema (e no que tem a documentação mais bonita).
 
 ---
 
