@@ -12,7 +12,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código funcional (e �
 Aqui é onde a mágica (ou o desespero) acontece:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,nodejs,tailwind,docker,git,nestjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,flask,fastapi,vue,nuxt,nodejs,tailwind,docker,git,nestjs" />
 </p>
 
 ---
